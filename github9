@@ -1,0 +1,12 @@
+{
+  "FastGithub": {
+    "DomainConfigs": {
+      "onedrive.live.com": {
+        "TlsSni": false
+      },
+      "*.onedrive.live.com": {
+        "TlsSni": false
+      }
+    }
+  }
+}
