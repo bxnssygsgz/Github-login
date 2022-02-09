@@ -1,0 +1,10 @@
+{
+  "FastGithub": {
+    "DomainConfigs": {     
+      "cdn.bootcss.com": {
+        "TlsSni": true,
+        "Destination": "https://cdnjs.cloudflare.com/ajax/libs/"
+      }
+    }
+  }
+}
