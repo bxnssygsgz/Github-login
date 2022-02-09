@@ -1,0 +1,15 @@
+{
+  "FastGithub": {
+    "DomainConfigs": {
+      "*.fastly.net": {
+        "TlsIgnoreNameMismatch": true
+      },
+      "*.*.fastly.net": {
+        "TlsIgnoreNameMismatch": true
+      },
+      "*.*.*.fastly.net": {
+        "TlsIgnoreNameMismatch": true
+      }
+    }
+  }
+}
